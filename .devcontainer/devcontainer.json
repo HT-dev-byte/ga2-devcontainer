@@ -6,5 +6,6 @@
     "astral-sh.uv",
     "ms-python.python"
   ],
-  "postCreateCommand": "pip install fastapi uvicorn[standard]"
+  "postCreateCommand": "uv pip install fastapi"
 }
+
